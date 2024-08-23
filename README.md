@@ -1,2 +1,2 @@
 # MovieRecommender
-This is a project for a movie recommending system
+This is a project for a movie-recommending system
